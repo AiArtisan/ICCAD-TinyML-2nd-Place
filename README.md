@@ -6,7 +6,7 @@ This is a repository for a **TinyML** machine learning algorithms accelerator on
 
 Designed by:
 
-> Jingwei Zhang, Xinye Cao, Chaoyao Shen, Yuning Ji, et al.
+> Jingwei Zhang, Chaoyao Shen, Xinye Cao, Yuning Ji, et al.
 
 > SEUer Group, Southeast University
 
